@@ -1,0 +1,73 @@
+"""
+STEP-BY-STEP: Getting Your Realistic AI News Anchor
+====================================================
+
+CURRENT STATUS: Demo created ✅
+NEXT STEP: Set up D-ID for realistic presenter
+
+What You'll Get:
+---------------
+✅ Real-looking female news anchor (like professional TV news)
+✅ Perfect lip-sync with your AI voice
+✅ Natural facial expressions and head movements
+✅ Broadcast-quality professional appearance
+✅ Looks EXACTLY like the reference image you shared
+
+Setup Time: 5 minutes
+Cost: FREE trial (then $5/month for daily videos)
+
+STEP 1: Sign Up for D-ID
+-------------------------
+1. Go to: https://studio.d-id.com/
+2. Click "Start Free Trial" or "Sign Up"
+3. Use your Google account or email
+4. Verify your email address
+
+STEP 2: Get Your API Key
+------------------------
+1. Once logged in, click your profile icon (top right)
+2. Go to "Settings"
+3. Click the "API" tab
+4. Click "Create API Key" button
+5. Copy the key (it looks like: "Basic abc123xyz...")
+
+STEP 3: Configure the Script
+----------------------------
+1. Open: d:/interest/ai_presenter_agent.py
+2. Find line 9: D_ID_API_KEY = "YOUR_D_ID_API_KEY_HERE"
+3. Replace with your actual key
+4. Save the file
+
+STEP 4: Run the Script
+---------------------
+Open terminal and run:
+    cd d:/interest
+    python create_final_broadcast_with_presenter.py
+
+STEP 5: Watch Your AI Presenter!
+--------------------------------
+The script will:
+- Upload your audio to D-ID
+- Generate realistic presenter video (30-60 seconds)
+- Download the final video
+- Save to: automated_production/videos/
+
+Result: Professional news broadcast with realistic AI anchor!
+
+TROUBLESHOOTING
+---------------
+Q: What if I don't see "API" in settings?
+A: Make sure you're on the D-ID Studio dashboard, not the consumer app
+
+Q: How much does it cost?
+A: Free trial gives you 20 credits (5 minutes of video)
+   Then $5/month for 15 minutes (perfect for daily 2-min videos)
+
+Q: Can I use a different presenter?
+A: Yes! D-ID has multiple presenters, or you can upload your own image
+
+NEXT STEPS
+----------
+I'm opening D-ID in your browser now to help you sign up!
+Follow the steps above and you'll have your realistic AI news anchor ready!
+"""

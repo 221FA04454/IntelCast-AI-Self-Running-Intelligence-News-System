@@ -1,0 +1,116 @@
+{
+  "status": "COMPLETED",
+  "timestamp": "2026-01-22 11:08:26.433787",
+  "verified_news": [
+    {
+      "title": "Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post",
+      "link": "https://www.washingtonpost.com/dc-md-va/2026/01/20/halligan-judges-standoff-virginia-prosecutor/",
+      "source": "The Washington Post",
+      "published": "2026-01-21T04:19:44Z",
+      "summary": "Halligan\u2019s departure followed a pair of orders by federal judges in Virginia that sought to replace her and accused her of \u201cmasquerading\u201d as U.S. attorney.",
+      "verification_status": "VERIFIED",
+      "reliability_score": "High"
+    },
+    {
+      "title": "Amazon gets approval to build massive retail concept in Orland Park - chicago.suntimes.com",
+      "link": "https://chicago.suntimes.com/real-estate/2026/01/20/amazon-approval-build-massive-new-retail-concept-orland-park",
+      "source": "Suntimes.com",
+      "published": "2026-01-21T01:41:00Z",
+      "summary": "The estimated 230,000-square-foot store will offer shoppers general merchandise and grocery items.",
+      "verification_status": "VERIFIED",
+      "reliability_score": "High"
+    },
+    {
+      "title": "Both astronauts that flew on Boeing\u2019s troubled Starliner mission are now retired - CNN",
+      "link": "https://www.cnn.com/2026/01/20/science/nasa-suni-williams-retires-starliner-astronaut",
+      "source": "CNN",
+      "published": "2026-01-21T01:13:00Z",
+      "summary": "Veteran NASA astronaut Suni Williams announced her retirement Tuesday. Her extended mission to orbit due to the troubled Boeing Starliner test flight was her final foray.",
+      "verification_status": "VERIFIED",
+      "reliability_score": "High"
+    },
+    {
+      "title": "Driver killed and several injured after train derails near Barcelona, local media report - BBC",
+      "link": "https://www.bbc.com/news/articles/c1m78xl0gmpo",
+      "source": "BBC News",
+      "published": "2026-01-21T00:37:40Z",
+      "summary": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia.",
+      "verification_status": "VERIFIED",
+      "reliability_score": "High"
+    },
+    {
+      "title": "Galaxy S26 Ultra color lineup looks pretty boring, and didn\u2019t even copy iPhone orange - 9to5Google",
+      "link": "http://9to5google.com/2026/01/20/galaxy-s26-ultra-color-lineup-looks-pretty-boring-and-didnt-even-copy-iphone-orange/",
+      "source": "9to5google.com",
+      "published": "2026-01-21T00:15:00Z",
+      "summary": "New leaks have revealed the likely lineup for Samsung\u2019s Galaxy S26 Ultra colors, and it sounds pretty tame. Leaker Evan...",
+      "verification_status": "VERIFIED",
+      "reliability_score": "High"
+    }
+  ],
+  "script": {
+    "metadata": {
+      "date": "January 22, 2026",
+      "type": "YouTube Document"
+    },
+    "segments": [
+      {
+        "time": "0:00",
+        "narrator": "Hook",
+        "content": "Global alert for January 22, 2026. Major shifts in geopolitics and technology are breaking right now. Here is what you need to know."
+      },
+      {
+        "time": "0:30",
+        "narrator": "Story 1",
+        "content": "In The Washington Post, we are tracking: Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post. This development signals a significant shift in current global patterns."
+      },
+      {
+        "time": "0:60",
+        "narrator": "Story 2",
+        "content": "In Suntimes.com, we are tracking: Amazon gets approval to build massive retail concept in Orland Park - chicago.suntimes.com. This development signals a significant shift in current global patterns."
+      },
+      {
+        "time": "0:90",
+        "narrator": "Story 3",
+        "content": "In CNN, we are tracking: Both astronauts that flew on Boeing\u2019s troubled Starliner mission are now retired - CNN. This development signals a significant shift in current global patterns."
+      },
+      {
+        "time": "0:120",
+        "narrator": "Story 4",
+        "content": "In BBC News, we are tracking: Driver killed and several injured after train derails near Barcelona, local media report - BBC. This development signals a significant shift in current global patterns."
+      },
+      {
+        "time": "0:150",
+        "narrator": "Story 5",
+        "content": "In 9to5google.com, we are tracking: Galaxy S26 Ultra color lineup looks pretty boring, and didn\u2019t even copy iPhone orange - 9to5Google. This development signals a significant shift in current global patterns."
+      }
+    ]
+  },
+  "audio_path": null,
+  "video_assets": [
+    {
+      "title": "Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post",
+      "video_url": "https://videos.pexels.com/video-files/2825510/2825510-sd_640_360_24fps.mp4"
+    },
+    {
+      "title": "Amazon gets approval to build massive retail concept in Orland Park - chicago.suntimes.com",
+      "video_url": "https://videos.pexels.com/video-files/8465178/8465178-hd_1920_1080_25fps.mp4"
+    },
+    {
+      "title": "Both astronauts that flew on Boeing\u2019s troubled Starliner mission are now retired - CNN",
+      "video_url": "https://videos.pexels.com/video-files/7670560/7670560-sd_640_360_25fps.mp4"
+    },
+    {
+      "title": "Driver killed and several injured after train derails near Barcelona, local media report - BBC",
+      "video_url": "https://videos.pexels.com/video-files/26628206/11980147_640_360_30fps.mp4"
+    },
+    {
+      "title": "Galaxy S26 Ultra color lineup looks pretty boring, and didn\u2019t even copy iPhone orange - 9to5Google",
+      "video_url": "https://videos.pexels.com/video-files/8225859/8225859-hd_720_1280_25fps.mp4"
+    }
+  ],
+  "youtube_upload": {
+    "status": "FAILED",
+    "error": "('invalid_client: The OAuth client was not found.', {'error': 'invalid_client', 'error_description': 'The OAuth client was not found.'})"
+  }
+}

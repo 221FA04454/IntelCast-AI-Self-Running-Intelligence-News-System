@@ -1,0 +1,48 @@
+{
+    "voice_profile": "Professional News Anchor (Neutral)",
+    "narration_speed": "1.02x",
+    "language_switching": "Enabled (English/Hindi/Telugu/Kannada/Tamil)",
+    "audio_file_path": "d:/interest/audio/news_voiceover_2026-01-22.mp3",
+    "segments": [
+        {
+            "timestamp": "0:00",
+            "text": "[English] The race for the Arctic just hit a turning point. At Davos 2026, the U.S. has officially traded tariff threats for a new strategic framework in Greenland. But is this a mission for resources, or a shield against rising eastern influence?",
+            "audio_segment_id": "v_001"
+        },
+        {
+            "timestamp": "0:15",
+            "text": "[English] Welcome to the Global Intelligence Brief. [Hindi] Swagat hai aapka intelligence brief mein. [English] This week, we are witnessing a fundamental realignment of diplomatic power. From the shifting ice of the Arctic to a newly proposed governance model for Gaza, the old rules of engagement are being rewritten.",
+            "audio_segment_id": "v_002"
+        },
+        {
+            "timestamp": "1:00",
+            "text": "[English] First, the headlines from Davos. President Donald Trump has announced a 'framework of a future deal' for Greenland. This marks a significant reversal after weeks of tariff threats against Denmark. The deal focuses on two major pillars: secured access to Greenland’s vast critical mineral reserves and the installation of an advanced 'Golden Dome' missile defense system.",
+            "audio_segment_id": "v_003"
+        },
+        {
+            "timestamp": "2:30",
+            "text": "[English] In the Middle East, the diplomatic map is also changing. Eight Muslim-majority nations, including Saudi Arabia, Turkey, and Egypt, have agreed to join the U.S.-led 'Board of Peace.' [Telugu] Ee Board of Peace Gaza punarnirmaṇam lo kealaka patra poshistundi. [English] This transitional body is designed to oversee the reconstruction and governance of Gaza.",
+            "audio_segment_id": "v_004"
+        },
+        {
+            "timestamp": "4:00",
+            "text": "[English] Why now? These moves represent a pivot toward 'Transactional Security.' By de-escalating trade wars and focusing on localized defense boards, the U.S. is seeking to create alternative pillars of stability outside of traditional UN frameworks.",
+            "audio_segment_id": "v_005"
+        },
+        {
+            "timestamp": "5:30",
+            "text": "[English] For INDIA, the 'Board of Peace' invitation offers a permanent seat at a high-visibility table. [Kannada] Bharatada paschima mattu madhya pradesha naya sangatigalu idarinda badalaguva sadyate ide. [English] This move consolidates influence across the Levant and the global south.",
+            "audio_segment_id": "v_006"
+        },
+        {
+            "timestamp": "8:30",
+            "text": "[English] Looking ahead, the 'Greenland Framework' will trigger a massive surge in Arctic mining investment. Success will depend on whether membership fees can be converted into ground-level stability.",
+            "audio_segment_id": "v_007"
+        },
+        {
+            "timestamp": "9:30",
+            "text": "[English] If you value factual reporting, subscribe now. [Tamil] Indha thagavalgalai thodarndhu pira engaLudan inayungal. [English] I’m your AI correspondent, and this has been the Intelligence Brief.",
+            "audio_segment_id": "v_008"
+        }
+    ]
+}
