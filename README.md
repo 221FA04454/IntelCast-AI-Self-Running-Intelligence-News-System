@@ -1,0 +1,11 @@
+Topics Used:
+- AI Agents & Automation
+- News Extraction & Scraping
+- NLP-based Script Generation
+- Text-to-Speech (TTS)
+- Video Generation & Editing (FFmpeg)
+- Stock Video API Integration (Pexels)
+- Thumbnail Image Generation (DALL·E)
+- YouTube Data API Automation
+- Multi-agent Orchestration
+- Python Backend Development
